@@ -23,7 +23,5 @@ Proje kendimi geliştirmek amacıyla yapılan basit bir projedir.
 3.    ToDo.html dosyasını bir tarayıcıda açın.
 
 📁 Dosya Yapısı
-
     ToDo.html – Uygulamanın HTML yapısı
-
     ToDo.js – Uygulamanın JavaScript işlevselliği
