@@ -17,12 +17,13 @@ Proje kendimi geliştirmek amacıyla yapılan basit bir projedir.
    git clone https://github.com/AliOsman16/ToDoApp.git
 
 2. Proje klasörüne gidin:
-    ```bash
+    ```
     cd ToDoApp
+    
 
-3.    ToDo.html dosyasını bir tarayıcıda açın.
+3. ToDo.html dosyasını bir tarayıcıda açın.
 
-📁 Dosya Yapısı
+## 📁 Dosya Yapısı
     
    ToDo.html – Uygulamanın HTML yapısı
    
